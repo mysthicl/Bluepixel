@@ -1,0 +1,38 @@
+---
+document_title: "Nosotros"
+meta_description: "Learn more about the creator of this template and the services provided."
+meta_keywords: "astro, alfadev, starter, about, connect, linkedin"
+
+
+title: "Un poco de nosotros"
+description: Somos una empresa dedicada al mundo de la programacion con años de experiencia, contamos con un amplio conocimiento tanto en el lado del BackEnd como en el FrontEnd."
+buttons:
+  - label: Contactanos
+    href: /contact
+    icon: cloud
+    color: primary
+---
+
+<CounterComponent
+  counter={[
+    {
+      name: "Estrellas en GitHub",
+      number: 10000000,
+      // underscore is used to indicate the icon name do not have to be transformed in order to be imported from the 'feather-icons' package
+      icon: "_GitHub",
+    },
+    {
+      name: "Clientes satisfechos",
+      number: 3300,
+      icon: "smile",
+    },
+    {
+      name: "Tazas de cafe",
+      number: 10000,
+      icon: "coffee",
+    },
+  ]}
+/>
+
+<p class="text-text-disabled text-sm text-center mt-4">Los numeros no son exactos pero reflejan una idea de la magnitud de nuestro trabajo</p>
+<br/>

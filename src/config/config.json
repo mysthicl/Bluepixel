@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Bluepixel",
+    "base_url": "http://localhost:4321",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo-preview.png",
+    "logo_width": "47",
+    "logo_height": "47",
+    "logo_text": "Bluepixel"
+  },
+
+  "params": {
+    "footer_description": "Building cool things, one line of code (and a lot of coffee) at a time. Got questions? Or just bored? Reach out!",
+    "email": "bluepixel@bluepixel.com",
+    "location": "Somewhere on Earth, where the Wi-Fi is decent and the coffee is strong.",
+    "phone": "+503-7593-8285 (but let's be honest, email is faster)",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2025 Bluepixel"
+},
+
+  "metadata": {
+    "meta_author": "bluepixel",
+    "meta_image": "/images/logo-preview.png",
+    "meta_description": "alfadev-astro-starter is a starter template for Astro, the modern static site generator for the modern web.",
+    "meta_keywords": ["astro", "Astro Starter", "alfadev", "Diego Alfaro Sáez", "static site generator", "modern web", "astro template"],
+    "meta_application_name": "alfadev-astro-starter"
+  }
+}
