@@ -81,37 +81,37 @@ testimonial:
     - author: Fernando Blanco
       organization: CEO
       rating: five
-      avatar: ../public/images/
+      avatar: /images/
       content: "Sirector ejecutivo de la empresa, encargado de la visión y toma de decisiones clave, asegurando el crecimiento y <b class='text-accent'>éxito</b> del negocio.!"
 
     - author: Manases Turcio
       organization: Lider FrontEnd
       rating: five
-      avatar: ../public/images/ImgManases.png
+      avatar: /images/ImgManases.png
       content: "Supervisa el desarrollo de interfaces de usuario.<b class='text-accent'>Asegura</b> la calidad del código, la usabilidad y la implementación de buenas prácticas."
 
     - author: Luis Ramirez
       organization: Lider BackEnd
       rating: five
-      avatar: ../public/images/ImgAnder.png
+      avatar: /images/ImgAnder.png
       content: "Encargado del desarrollo, mantenimiento y escalabilidad de la lógica del ***servidor, bases de datos y APIs.***"
 
     - author: Julio Amaya
       organization: Lider en Desarrollo Movile
       rating: five
-      avatar: ../public/images/ImgJulio.png
+      avatar: /images/ImgJulio.png
       content: "Dirige el desarrollo de aplicaciones móviles, selecciona tecnologías, revisa código y guía a los desarrolladores móviles en buenas prácticas."
 
     - author: Ruth Nolasco
       organization: Desarrolladora Movile
       rating: four
-      avatar: ../public/images/ImgRuth.png
+      avatar: /images/ImgRuth.png
       content: "Crea y mantiene aplicaciones móviles nativas o híbridas para iOS y Android, usando tecnologías como <b class='text-accent'>Flutters y Ionic</b>."
 
     - author: Elias Segura
       organization: Lider de Arquitectura
       rating: five
-      avatar: ../public/images/ImgElias.png
+      avatar: /images/ImgElias.png
       content: "Diseña la estructura técnica del software, elige tecnologías y define patrones de diseño para garantizar escalabilidad y mantenimiento."
 
     - author: Anderson Castro
@@ -123,13 +123,13 @@ testimonial:
     - author: Cesia Reyes
       organization: Desarrolladora FrontEnd
       rating: four
-      avatar: ../public/images/ImgCesia.png
+      avatar: /images/ImgCesia.png
       content: "Implementa la interfaz de usuario de sitios web. Trabaja con tecnologías como HTML, CSS, JavaScript y frameworks como React o Angular."
 
     - author: Karla Zelaya
       organization: Desarrolladora FrontEnd
       rating: four
-      avatar: ../public/images/ImgKarla.png
+      avatar: /images/ImgKarla.png
       content: "Implementa la interfaz de usuario de sitios web. Trabaja con tecnologías como HTML, CSS, JavaScript y frameworks como React o Angular."
 
     - author: Moises Viera
@@ -141,7 +141,7 @@ testimonial:
     - author: Irving Machado
       organization: Product Manager
       rating: five
-      avatar: ../public/images/ImgIrving.png
+      avatar: /images/ImgIrving.png
       content: "Responsable de la planificación, ejecución y entrega de proyectos. Coordina equipos, gestiona tiempos y riesgos para cumplir con los ***objetivos***."
 
 
