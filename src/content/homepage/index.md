@@ -81,7 +81,7 @@ testimonial:
     - author: Fernando Blanco
       organization: CEO
       rating: five
-      avatar: /images/
+      avatar: /images/imgFer.png
       content: "Sirector ejecutivo de la empresa, encargado de la visión y toma de decisiones clave, asegurando el crecimiento y <b class='text-accent'>éxito</b> del negocio.!"
 
     - author: Manases Turcio
@@ -108,6 +108,12 @@ testimonial:
       avatar: /images/ImgRuth.png
       content: "Crea y mantiene aplicaciones móviles nativas o híbridas para iOS y Android, usando tecnologías como <b class='text-accent'>Flutters y Ionic</b>."
 
+    - author:  Isaac Hernandez
+      organization: Desarrollador Movile
+      rating: four
+      avatar: /images/
+      content: "Mantenimiento de aplicaciones móviles nativas o híbridas, usando tecnologías como <b class='text-accent'>Ionic</b>."
+
     - author: Elias Segura
       organization: Lider de Arquitectura
       rating: five
@@ -117,7 +123,7 @@ testimonial:
     - author: Anderson Castro
       organization: Lider de QA
       rating: five
-      avatar: ../public/images/
+      avatar: /images/imgSteven.png
       content: "Responsable de garantizar la calidad del software mediante pruebas automatizadas y manuales. Define estrategias de testing y supervision"
 
     - author: Cesia Reyes
@@ -135,7 +141,7 @@ testimonial:
     - author: Moises Viera
       organization: Desarrollador BackEnd
       rating: four
-      avatar: ../public/images/
+      avatar: /images/imgMoises.png
       content: "Desarrolla la lógica del servidor, gestiona bases de datos y crea APIs. Usa tecnologías como Node.js, PHP, Python o Java, dependiendo del stack."
 
     - author: Irving Machado
@@ -148,7 +154,7 @@ testimonial:
 ## Call to Action
 call_to_action:
   title: "Que esperas para contactarnos <span class='text-accent text-shadow-[0px_5px_15px]' >Blue</span><span class='text-[#38bdf8] text-shadow-[0px_5px_15px]'>pixel</span>."
-  description: "Save yourself some time (and sanity). Use this template and act like you planned everything from scratch. We won't tell. **Just be sure to leave a star, please.**"
+  description: "Tienes alguna pregunta o necesitas ayuda con tu proyecto? ¡No dudes en contactarnos!"
   button: 
     label: "Contacto!"
     href: "/contact"
