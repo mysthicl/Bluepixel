@@ -1,0 +1,1 @@
+import{h as e,j as m}from"./star.CUjiPYY8.js";import"./index.CZlPm10g.js";import{I as o}from"./index.Cc-7_wSM.js";function c(n){const t=n.name?.startsWith("_")?n.name.substring(1,n.name.length):e(n.name),a=o[t];return m.jsx(a,{...n})}export{c as default};
